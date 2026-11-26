@@ -1,0 +1,17 @@
+{
+  "eventos_origem_lidos": 474,
+  "eventos_origem_apos_deduplicacao_exata": 469,
+  "pedidos_distintos_no_log": 150,
+  "pedidos_com_estado_final_univoco": 147,
+  "pedidos_ativos_com_estado_final_univoco": 130,
+  "pedidos_com_ultimo_evento_D": 17,
+  "pedidos_com_eventos_finais_conflitantes": 3,
+  "linhas_destino": 137,
+  "soma_destino_bruta_todas_as_linhas": 308232.91,
+  "soma_destino_apos_remover_copias_exatas": 306320.32,
+  "pedidos_distintos_destino_apos_deduplicacao_exata": 133,
+  "divergencias_confirmadas": 30,
+  "casos_nao_conclusivos": 6,
+  "valor_total_origem_conhecido_ativos_sem_ambiguidades": 276492.52,
+  "valor_total_destino_linhas_apos_deduplicacao_exata": 306320.32
+}
